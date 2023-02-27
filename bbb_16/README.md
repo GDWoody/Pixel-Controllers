@@ -1,4 +1,3 @@
-# Pixel-Controllers
 ## Copyright and Disclaimer
 Copyright: GDWoody
 
