@@ -18,23 +18,26 @@ These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 <img width="1169" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/221608795-67298623-31b7-4faf-aeb1-eaf94f2c1ae8.png">
 
-
+---
 ## [**BBB 8v1 SMD**](bbb_8/README.md)
 
 
 <img width="1169" alt="BBB_8v1_SMD" src="https://user-images.githubusercontent.com/117477621/221609191-545f5017-e81c-4a87-b1e4-df2b9e6a356d.png">
 
-
+---
 ## [**BBB 4v1 SMD**](bbb_4/README.md)
 
 
 <img width="1169" alt="BBB_4v1_SMD" src="https://user-images.githubusercontent.com/117477621/221609323-00e7593d-c235-440c-a915-50d7f60fc7b5.png">
 
-
+---
 ## [**BBB All Diff v1**](bbb_all_diff)
 
 
 <img width="1169" alt="BBB_All_Diff" src="https://user-images.githubusercontent.com/117477621/221609384-cafea278-1ef0-44d1-ab3b-dfe131fc45dd.png">
+
+---
+# Expansion Boards
 
 
 ## [**Diff Expansion**](bbb_diff_expansion/README.md)
@@ -42,7 +45,7 @@ These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 <img width="1360" alt="Dff_Expansion" src="https://user-images.githubusercontent.com/117477621/221609443-75164ce4-cb55-4193-9841-ac9d4f430b34.png">
 
-
+---
 ## [**16 Expansion**](bbb_16_expansion/README.md)
 
 
