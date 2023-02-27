@@ -1,4 +1,3 @@
-# Pixel-Controllers
 ## Copyright and Disclaimer
 Copyright: GDWoody
 
@@ -8,46 +7,41 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# Controllers
+# BBB 4v1 SMD Controller
 
-These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md) with a few modifications and are designed as open source DIY hobbyist controllers. They are not intended to be sold as commercial products. All controller boards are 5v DC only and do not supply power for Pixel Strings, only data and ground. They all run FPP to drive the pixel and serial ports. Connection to a network/internet is by ethernet also WIFI and audio are supported via the USB port. All design files are open source and available on github, EasyEDA was used to create the designs.
+Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md). The board is largely the same as Scott's, but with a few modifications.
 
+# Features
 
-* [**BBB-16v2-SMD**](bbb16/README.md) - BBB 16v2 SMD.
+* 5 Differential RJ45 ports
 
+* 2 DMX Serial ports, DMX 1 can be selected as a DMX or LOR port
 
-<img width="1169" alt="BBB 16v2 SMD" src="https://user-images.githubusercontent.com/117477621/221443819-131c6044-a830-478d-95ea-47c8b7a19eab.png">
+* 2 GPIO header
 
+* 24 Pin expansion header
 
-## BBB 8v1 SMD
+* SSD1306 128x64 OLED header
 
+* Onboard 24LC256 eeprom
 
-<img width="1169" alt="BBB 8v1 SMD" src="https://user-images.githubusercontent.com/117477621/221443901-4160f285-e3e8-446e-84f1-8b11186342d8.png">
-
-
-## BBB 4v1 SMD
-
-
-<img width="1169" alt="BBB 4v1 SMD" src="https://user-images.githubusercontent.com/117477621/221443707-c5c5d626-751b-4372-84a1-52551afab9b0.png">
+* Reverse Voltage Protection
 
 
-## BBB All Diff v1
+# Modifications
 
+* The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board.
 
-<img width="1169" alt="BBB All Diff" src="https://user-images.githubusercontent.com/117477621/221443625-04bd3f00-a0e9-435c-b249-ef1947c82fed.png">
+* There are no power outputs for pixels, only pixel data and ground connections.
 
+* A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
 
+* Onboard Resettable Fuse
+ 
 
-## Diff Expansion
+![Image of BBB16
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_All_Diff.png)
 
-
-<img width="1360" alt="Dff Expansion" src="https://user-images.githubusercontent.com/117477621/221441957-d13a7daa-1dc9-405d-a3b4-8329ef3e2840.png">
-
-
-## 16 Expansion
-
-
-<img width="1169" alt="16 Expansion" src="https://user-images.githubusercontent.com/117477621/221444055-4bacd432-3b52-44b8-b21e-bbca0d47039d.png">
 
 
 
