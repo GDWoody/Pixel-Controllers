@@ -12,13 +12,13 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md). The board is largely the same as Scott's but with a few modifications.
 
-# Modifications.
+# Modifications
 
-The BBB 16v2 SMD Controller requires a 5v DC power source only! Connecting any other size power source will damage the board.
+* The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board.
 
-There are no power outputs for pixels, only pixel data and ground connections.
+* There are no power outputs for pixels, only pixel data and ground connections.
 
-A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
+* A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
  
 
 ![Image of BBB16
