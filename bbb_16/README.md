@@ -21,7 +21,7 @@ There are no power outputs for pixels, only pixel data and ground connections.
 A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
  
 
-
-
+![Image of BBB16
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD.png)
 
 	
