@@ -39,10 +39,11 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 * A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
 
 * Onboard Resettable Fuse
+
+
+<img width="1169" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/221608795-67298623-31b7-4faf-aeb1-eaf94f2c1ae8.png">
  
 
-![Image of BBB16
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD.png)
 
 
 
