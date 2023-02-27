@@ -37,7 +37,7 @@ These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [htt
 <img width="1169" alt="BBB_All_Diff" src="https://user-images.githubusercontent.com/117477621/221609384-cafea278-1ef0-44d1-ab3b-dfe131fc45dd.png">
 
 
-## Diff Expansion
+## [**Diff Expansion**](bbb_diff_expansion/README.md)
 
 
 <img width="1360" alt="Dff_Expansion" src="https://user-images.githubusercontent.com/117477621/221609443-75164ce4-cb55-4193-9841-ac9d4f430b34.png">
