@@ -25,7 +25,7 @@ These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [htt
 <img width="1169" alt="BBB_8v1_SMD" src="https://user-images.githubusercontent.com/117477621/221609191-545f5017-e81c-4a87-b1e4-df2b9e6a356d.png">
 
 
-## [**BBB 4v1 SMD**](bbb_4/README.md_)
+## [**BBB 4v1 SMD**](bbb_4/README.md)
 
 
 <img width="1169" alt="BBB_4v1_SMD" src="https://user-images.githubusercontent.com/117477621/221609323-00e7593d-c235-440c-a915-50d7f60fc7b5.png">
