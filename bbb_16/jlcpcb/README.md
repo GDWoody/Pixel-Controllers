@@ -8,7 +8,9 @@ You may redistribute and modify this documentation under the terms of the CERN O
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
 ---
-# Additional Components Required
+# BBB 16v2 SMD Controller
+
+## Additional Components Required
 
 * A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
 
