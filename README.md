@@ -26,7 +26,8 @@ Disclaimer: I have built and tested these boards and have had them up and runnin
 ## [**BBB 16v2 SMD Push Fit**](bbb_16_push/)
 
 
-<img width="1169" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/221608795-67298623-31b7-4faf-aeb1-eaf94f2c1ae8.png">
+<img width="1169" alt="BBB 16v2 SMD Push" src="https://user-images.githubusercontent.com/117477621/221994822-b8d1ffe3-def3-4018-b86b-2b6df0b00be6.png">
+
 
 ---
 ## [**BBB 8v1 SMD**](bbb_8/)
