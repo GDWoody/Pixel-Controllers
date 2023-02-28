@@ -17,7 +17,7 @@ These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [htt
 Disclaimer: I have built and tested these boards and have had them up and running without any problems. If you wish to build your own boards, please do so at your own risk. I used [jlcpcb.com](https://jlcpcb.com) for manufacture, all the nessasary files are in the jlcpcb folders.
 
 
-## [**BBB 16v2 SMD**](bbb_16/README.md)
+## [**BBB 16v2 SMD**](bbb_16/)
 
 
 <img width="1169" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/221608795-67298623-31b7-4faf-aeb1-eaf94f2c1ae8.png">
