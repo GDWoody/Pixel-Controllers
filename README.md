@@ -1,6 +1,6 @@
 
 
-## Copyright and Disclaimer
+# Copyright and Disclaimer
 Copyright: GDWoody
 
 This documentation describes Open Hardware and is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. (CERN-OHL-S)
