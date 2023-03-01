@@ -7,15 +7,15 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# BBB 4v1 SMD Controller
+# BBB 16v2 SMD Push Fit Controller
 
 Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md). The board is largely the same as Scott's, but with a few modifications.
 
 # Features
 
-* 4 local ports
+* 16 local ports
 
-* 4 Differential RJ45 ports
+* 1 Differential RJ45 connection
 
 * 2 DMX Serial ports, DMX 1 can be selected as a DMX or LOR port
 
@@ -32,17 +32,17 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 # Modifications
 
-* The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board.
+* The BBB 16v2 SMD Push Fit Controller requires a 5v DC only! Connecting any other size power source will damage the board.
 
 * There are no power outputs for pixels, only pixel data and ground connections.
+
+* 16 local ports with push fit connectors
 
 * A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
 
 * Onboard Resettable Fuse
+
+
+<img width="1169" alt="BBB 16v2 SMD Push" src="https://user-images.githubusercontent.com/117477621/221994644-c50d9ba9-684e-4f76-a0cb-969334ed7307.png">
+
  
-
-![Image of BBB16
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_4v1_SMD.png)
-
-
-
