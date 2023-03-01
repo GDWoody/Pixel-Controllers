@@ -36,6 +36,13 @@ Disclaimer: I have built and tested these boards and have had them up and runnin
 <img width="1169" alt="BBB_8v1_SMD" src="https://user-images.githubusercontent.com/117477621/221609191-545f5017-e81c-4a87-b1e4-df2b9e6a356d.png">
 
 ---
+## [**BBB 8v1 SMD Push Fit**](bbb_8_push/)
+
+
+<img width="1169" alt="BBB 8v1 SMD Push" src="https://user-images.githubusercontent.com/117477621/222186210-8144d467-a43f-47d8-8525-13a4c61902a9.png">
+
+
+---
 ## [**BBB 4v1 SMD**](bbb_4/)
 
 
