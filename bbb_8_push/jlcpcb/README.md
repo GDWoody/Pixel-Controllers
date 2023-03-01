@@ -1,4 +1,4 @@
-# BBB 4v1 SMD Controller
+# BBB 8v1 SMD Push Fit Controller
 
 ## Copyright and Disclaimer
 Copyright: GDWoody
