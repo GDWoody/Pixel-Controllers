@@ -14,7 +14,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 These Pixel Controllers are based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md) with a few modifications and are designed as open source DIY hobbyist controllers. They are not intended to be sold as commercial products. All controller boards are 5v DC only and do not supply power for Pixel Strings, only data and ground. They all run FPP to drive the pixel and serial ports. Connection to a network/internet is by ethernet also WIFI and audio are supported via the USB port. All design files are open source and available on github, EasyEDA was used to create the designs.
 
-Disclaimer: I have built and tested these boards and have had them up and running without any problems. If you wish to build your own boards, please do so at your own risk. I used [jlcpcb.com](https://jlcpcb.com) for manufacture, all the nessasary files are in the jlcpcb folders.
+Disclaimer: If you wish to build your own boards, please do so at your own risk. I use [jlcpcb.com](https://jlcpcb.com) for PCB manufacture and [lcsc.co](https://www.lcsc.com/) for parts, all the nessasary files are in the jlcpcb folders.
 
 
 ## [**BBB 16v2 SMD**](bbb_16/)
