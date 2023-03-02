@@ -29,7 +29,7 @@ Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAnd
 
 ## Additional Components Required
 
-* Download the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file in the lcsc folder.
+* Download the [**BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx) file in the lcsc folder.
 
 Goto lcsc.com, sign in or make a new account and select BOM Tool and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
 
