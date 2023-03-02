@@ -43,6 +43,8 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 ---
 ## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
 
+## [**To order PCB's**](https://gdwoody.github.io/bbb_16/jlcpcb/README.md)
+
 
 ## [**SMD Assembly Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.xlsx)
 
