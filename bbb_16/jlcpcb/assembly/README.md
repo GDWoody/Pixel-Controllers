@@ -10,7 +10,30 @@ You may redistribute and modify this documentation under the terms of the CERN O
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
 ---
+## DIY Insructions
+Using the instructions bellow your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components' and 'Addtitional Hardware'.  
+
+
+## To order PCBs:
+
+* Download the Gerber_BBB_16v2_SMD_PCB.zip file.
+
+* Download the BOM_BBB_16v2_SMD_PCB.xlsx file.
+
+* Download the PickAndPlace_BBB_16v2_SMD_PCB.xlsx file
+
+Goto jlcpcb.com, sign in or make a new account and select Instant Quote.
+Upload the the Gerber_BBB_16v2_SMD_PCB.zip file. Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the SMD BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the SMD Pick and Place file.
+ 
+
 ## Additional Components Required
+
+* Download the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
+
+Goto lcsc.com, sign in or make a new account and select BOM Tool and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
+
+
+## Additional Hardware Required
 
 * A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
 
