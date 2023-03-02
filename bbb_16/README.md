@@ -41,7 +41,7 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 * Onboard Resettable Fuse
 
 ---
-## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/ibom.html)
+## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
 
 
 ## [**SMD Assembly Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.csv)
