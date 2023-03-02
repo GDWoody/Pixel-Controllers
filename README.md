@@ -23,7 +23,8 @@ Disclaimer: If you wish to build your own boards, please do so at your own risk.
 <img width="1169" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/221608795-67298623-31b7-4faf-aeb1-eaf94f2c1ae8.png">
 
 
-<img width="1304" alt="BBB 16v2 SMD Under" src="https://user-images.githubusercontent.com/117477621/222247200-c614a31e-f69e-4c71-bd14-cff1ebec05dd.png">
+<img width="960" alt="BBB 16v2 SMD Under" src="https://user-images.githubusercontent.com/117477621/222299693-d09da43c-f987-42a9-9be3-f5594341e06f.png">
+
 
 ---
 # Variants
