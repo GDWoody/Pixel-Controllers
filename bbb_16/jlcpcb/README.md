@@ -18,7 +18,7 @@ Using the instructions bellow your boards will arrive with only the SMD componen
 
 * Download the  [**Gerber_BBB_16v2_SMD_PCB.zip**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/gerber/Gerber_BBB_16v2_SMD_PCB.zip) file in the jlcpcb\gerber folder.
 
-* Download the BOM_BBB_16v2_SMD_PCB.xlsx file in the jlcpcb\assembly folder.
+* Download the  [**BOM_BBB_16v2_SMD_PCB.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.xlsx) file in the jlcpcb\assembly folder.
 
 * Download the PickAndPlace_BBB_16v2_SMD_PCB.xlsx file in the jlcpcb\assembly folder.
 
