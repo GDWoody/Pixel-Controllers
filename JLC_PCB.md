@@ -30,13 +30,16 @@ Click "Next" on the right below the Calculated Price heading.
 ![SMD Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/gerber_next.png)
 
 
+On the next screen click "Next"
+
+![Bill of Materials Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bill_of_materials.png)
 
 
 
 
 On the Next page, you will select the BOM and Part Position Files.
 
-![Add BOM POS](![SMD ON](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/smd_select.png))
+
 
 'xxxxx_SMD.csv' is the SMD BOM and 'xxxxx-all-pos.csv' is the SMD CPL position file.
 
