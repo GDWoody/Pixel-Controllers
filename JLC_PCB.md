@@ -18,20 +18,25 @@ Option: To hide the order number being visable on the PCB change 'Remove Order N
 
 
 Scroll down and Enable the SMD service and make sure the settings are as in the image.
-* Accept the Terms and Conditions then click "Confirm".
-* Then click "Next" on the right below the Calculated Price heading.
+
+Accept the Terms and Conditions then click "Confirm".
+
 
 ![SMD ON](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/smd_select.png)
 
-Make sure the settings are as in the image.
 
-![SMD Settings](https://github.com/computergeek1507/PB_16/raw/master/img/smd_settings.png)
+Click "Next" on the right below the Calculated Price heading.
 
-Then click "Confirm" and then "Next" on the right below the Calculated Price heading.
+![SMD Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bill_of_materials.png)
+
+
+
+
+
 
 On the Next page, you will select the BOM and Part Position Files.
 
-![Add BOM POS](https://github.com/computergeek1507/PB_16/raw/master/img/add_bom_pos.png)
+![Add BOM POS](![SMD ON](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/smd_select.png))
 
 'xxxxx_SMD.csv' is the SMD BOM and 'xxxxx-all-pos.csv' is the SMD CPL position file.
 
