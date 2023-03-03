@@ -6,7 +6,7 @@ Go to https://cart.jlcpcb.com/quote to upload the PCB design files.
 
 Upload the "gerber.zip" file by clicking the "Add Gerber File" button.
 
-![Add Button](https://github.com/computergeek1507/PB_16/raw/master/img/add_button.png)
+![Add Button](https://github.com/https://github.com/GDWoody/Pixel-Controllers/blob/main/image/add_gerber.png)
 
 The default setting are correct, blue color PCB's are recommended, but it will add two days to the build time.
 
