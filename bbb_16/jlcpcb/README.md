@@ -10,7 +10,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
 ---
-## DIY Insructions
+## DIY Instructions
 Using the instructions bellow your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components' and 'Addtitional Hardware'.  
 
 
