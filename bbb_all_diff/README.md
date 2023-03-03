@@ -30,7 +30,7 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 # Modifications
 
-* 4 extra Differential RJ45 ports
+* 4 Differential RJ45 ports
 
 * The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board.
 
