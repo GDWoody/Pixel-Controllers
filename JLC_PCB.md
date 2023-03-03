@@ -43,12 +43,20 @@ On the Next page, you will select the BOM and CPL Files to upload.
 
 ![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bom_cpl.png)
 
+
 * Click Procces BOM & CPL
 
-![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/process_bom_cpl.png)
----
+![Bom and CPL Process](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/process_bom_cpl.png)
 
-The next page will confirm all the BOM parts in the SMD XLSX file. Select "Next" to proceed to placement review. If they are incorrect, let me know and I will update the LCSC part numbers.
+
+The next page will need to confirm all the BOM parts in the 'BOM_xxxxx_SMD_PCB.xlsx' file.
+* Select "Next"
+
+![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/parts.png)
+
+
+
+Select "Next" to proceed to placement review. If they are incorrect, let me know and I will update the LCSC part numbers.
 
 
 
