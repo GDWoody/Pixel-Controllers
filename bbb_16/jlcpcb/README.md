@@ -40,6 +40,6 @@ Goto lcsc.com, sign in or make a new account and select 'BOM Tool' and upload th
 * A SSD1306 128x64 OLED Display
 
 ---
-### Be sure to fit these parts to the underside.
+Be sure to fit these three parts to the underside.
 
 <img width="960" alt="BBB 16v2 SMD Under" src="https://user-images.githubusercontent.com/117477621/222299693-d09da43c-f987-42a9-9be3-f5594341e06f.png">
