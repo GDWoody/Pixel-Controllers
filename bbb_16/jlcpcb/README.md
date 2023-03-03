@@ -10,7 +10,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 ---
 ## BBB 16v2 SMD Controller DIY Instructions
-Using the instructions bellow your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components' and 'Addtitional Hardware'.  
+Following the instructions below your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components' and 'Addtitional Hardware'.  
 
 
 ## To order PCBs:
