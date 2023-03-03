@@ -23,7 +23,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
    Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account, select Instant Quote and Upload the the Gerber_BBB_16v2_SMD_PCB.zip file.
 
-Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the Pick and Place file.
+   Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the Pick and Place file.
  
 
 ## Additional Components Required
