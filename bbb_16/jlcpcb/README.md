@@ -10,7 +10,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 ---
 ## BBB 16v2 SMD Controller DIY Instructions
-Following the instructions below your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components' and 'Addtitional Hardware'.  
+Following the instructions below your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components'.  
 
 
 ## To order PCBs:
@@ -34,6 +34,8 @@ Goto lcsc.com, sign in or make a new account and select 'BOM Tool' and upload th
 
 
 ## Additional Hardware Required
+
+* A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
 
 * A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
 
