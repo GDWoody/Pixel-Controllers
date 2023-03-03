@@ -32,13 +32,13 @@ Click "Next" on the right below the Calculated Price heading.
 
 ### PCB page
 
-On the next screen click "Next"
+Click "Next"
 
 ![Bill of Materials Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bill_of_materials.png)
 
 ### Bill of Materials page
 
-On the Next page, you will select the BOM and CPL Files to upload.
+Select the BOM and CPL Files to upload.
 
 * 'BOM_xxxxx_SMD_PCB.xlsx' is the BOM file.
 * 'CPL_xxxxx_SMD_PCB.xlsx' is the CPL file.
@@ -47,30 +47,31 @@ On the Next page, you will select the BOM and CPL Files to upload.
 ![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bom_cpl.png)
 
 
-* Click Procces BOM & CPL
+* When upload is complete click Procces BOM & CPL
 
 ![Bom and CPL Process](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/process_bom_cpl.png)
 
 
 The next page will need to confirm all the BOM parts in the 'BOM_xxxxx_SMD_PCB.xlsx' file.
 The LCSC part numbers should be correct, if they are not let me know and I will update them.
-* Select "Next"
+* Click "Next"
 
 ![Bom Parts](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/parts.png)
 
 
-* Component Placements page.
+### Component Placements page.
 
 This page will confirm all the SMD part placements in the CPL XLSX file.
-* Select "Next"
+* Click "Next"
 
 ![Placement Review](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/cpl.png)
 
 
-* Order & Quote page.
+### Order & Quote page.
 
 On this pager you will need to choose the 'Product Description', this is used for Customs. I select ' Reserch\Education\DIY\Entertainment / Developnent Board' your choice may be different depending on your circumstances.
 
+* Then Save to Cart and proceed to Checkout and Shipping like normal.
+
 ![Order & Quote](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/save.png)
 
-Then Save to Cart and proceed to Checkout and Shipping like normal.
