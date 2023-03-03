@@ -32,6 +32,8 @@ Note: The BBB 16v2 SMD Controller requires 5v DC only! Connecting any other size
 * A RTC DS3231 AT24C32 can be connected to the board by either the top header RTC 1 or the under board header RTC 2
 
 * Onboard Resettable Fuse
+
+* Screw Terminal Blocks with 8 Additional GND connections
  
 
 ![Image of BBB16
