@@ -38,3 +38,6 @@ Goto lcsc.com, sign in or make a new account and select 'BOM Tool' and upload th
 * A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
 
 * A SSD1306 128x64 OLED Display
+
+
+<img width="960" alt="BBB 16v2 SMD Under" src="https://user-images.githubusercontent.com/117477621/222299693-d09da43c-f987-42a9-9be3-f5594341e06f.png">
