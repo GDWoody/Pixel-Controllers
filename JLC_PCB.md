@@ -50,7 +50,7 @@ On the Next page, you will select the BOM and CPL Files to upload.
 
 
 The next page will need to confirm all the BOM parts in the 'BOM_xxxxx_SMD_PCB.xlsx' file.
-The LCSC part numbers should be correct, if not let me know and I will update the LCSC part numbers.
+The LCSC part numbers should be correct, if they are not let me know and I will update them.
 * Select "Next"
 
 ![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/parts.png)
