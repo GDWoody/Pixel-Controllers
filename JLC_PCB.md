@@ -35,12 +35,12 @@ On the next screen click "Next"
 ![Bill of Materials Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bill_of_materials.png)
 
 
+On the Next page, you will select the BOM and CPL Part Position Files.
+
+![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bom_cpl.png)
 
 
-On the Next page, you will select the BOM and Part Position Files.
-
-
-
+---
 'xxxxx_SMD.csv' is the SMD BOM and 'xxxxx-all-pos.csv' is the SMD CPL position file.
 
 The next page will confirm all the BOM parts in the SMD CSV file. Select "Next" to proceed to placement review. If they are incorrect, let me know and I will update the LCSC part numbers.
