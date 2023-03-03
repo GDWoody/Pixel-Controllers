@@ -30,7 +30,7 @@ Click "Next" on the right below the Calculated Price heading.
 ![SMD Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/gerber_next.png)
 
 
-### Bill of Materials page.
+### Bill of Materials page
 
 On the next screen click "Next"
 
