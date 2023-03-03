@@ -24,7 +24,7 @@ Disclaimer: If you wish to build your own boards, please do so at your own risk.
 
 
 ---
-[**See here for detailed PCB ordering instructions from JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
+# [**Ordering Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
 
 
 ---
