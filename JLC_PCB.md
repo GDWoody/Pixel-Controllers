@@ -53,16 +53,21 @@ The next page will need to confirm all the BOM parts in the 'BOM_xxxxx_SMD_PCB.x
 The LCSC part numbers should be correct, if they are not let me know and I will update them.
 * Select "Next"
 
-![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/parts.png)
+![Bom Parts](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/parts.png)
 
 
+* Component Placements page.
 
-Select "Next" to proceed to placement review. 
+This page will confirm all the part placements in the CPL XLSX file.
+* Select "Next"
+
+![Placement Review](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/cpl.png)
 
 
+* Order & Quote page.
 
-The final page will confirm all the part placements in the CPL XLSX file. The "dots" should match the pin 1 locations on the IC's. If they are incorrect, let me know and I will update the rotation values.
+On this pager you will need to choose the 'Product Description', this is used for Customs. I select ' Reserch\Education\DIY\Entertainment / Developnent Board' your choice may be different depending on your circumstances.
 
-
+![Order & Quote](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/save.png)
 
 Then Save to Cart and proceed to Checkout and Shipping like normal.
