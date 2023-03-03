@@ -69,7 +69,7 @@ This page will confirm all the SMD part placements in the CPL XLSX file.
 
 ### Order & Quote page.
 
-On this pager you will need to choose the 'Product Description', this is used for Customs. I select ' Reserch\Education\DIY\Entertainment / Developnent Board' your choice may be different depending on your circumstances.
+You will need to choose the 'Product Description', this is used for Customs. I select ' Reserch\Education\DIY\Entertainment / Developnent Board' your choice may be different depending on your circumstances.
 
 * Click Save to Cart and proceed to Checkout and Shipping like normal.
 
