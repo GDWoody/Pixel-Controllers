@@ -42,10 +42,10 @@ On the Next page, you will select the BOM and Part Position Files.
 
 The next page will confirm all the BOM parts in the SMD CSV file. Select "Next" to proceed to placement review. If they are incorrect, let me know and I will update the LCSC part numbers.
 
-![BOM Review](https://github.com/computergeek1507/PB_16/raw/master/img/bom_review.png)
+
 
 The final page will confirm all the part placements in the POS CSV file. The "dots" should match the pin 1 locations on the IC's. If they are incorrect, let me know and I will update the rotation values.
 
-![POS Review](https://github.com/computergeek1507/PB_16/raw/master/img/placement_review.png)
+
 
 Then Save to Cart and proceed to Checkout and Shipping like normal.
