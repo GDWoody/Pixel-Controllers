@@ -71,7 +71,7 @@ This page will confirm all the SMD part placements in the CPL XLSX file.
 
 You will need to choose the 'Product Description', this is used for Customs. I select ' Reserch\Education\DIY\Entertainment / Developnent Board' your choice may be different depending on your circumstances.
 
-* Click Save to Cart and proceed to Checkout and Shipping like normal.
+* Click Save to Cart and proceed to Checkout and Shipping as normal.
 
 ![Order & Quote](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/save.png)
 
