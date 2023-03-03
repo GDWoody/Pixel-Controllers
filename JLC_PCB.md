@@ -1,6 +1,6 @@
 ## Ordering from [jlcpcb.com](https://jlcpcb.com/)
 
-### Printed Circuit Board
+### SMD PCB's
 
 Go to https://cart.jlcpcb.com/quote to upload the PCB design files.
 
