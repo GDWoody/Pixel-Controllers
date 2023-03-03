@@ -27,7 +27,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'CPL_BBB_16v2_SMD_PCB.xlsx' is the CPL file.
 
-[**See here for detailed PCB ordering instructions from JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
+* [**See here for detailed PCB ordering instructions from JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
 
 
 ## Additional Components Required
