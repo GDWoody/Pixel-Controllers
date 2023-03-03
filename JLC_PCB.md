@@ -30,12 +30,13 @@ Click "Next" on the right below the Calculated Price heading.
 ![SMD Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/gerber_next.png)
 
 
-### Bill of Materials page
+### PCB page
 
 On the next screen click "Next"
 
 ![Bill of Materials Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bill_of_materials.png)
 
+### Bill of Materials page
 
 On the Next page, you will select the BOM and CPL Files to upload.
 
