@@ -19,7 +19,7 @@ Option: To hide the order number being visable on the PCB change 'Remove Order N
 
 Scroll down and Enable the SMD service.
 
-![SMD ON](https://github.com/computergeek1507/PB_16/raw/master/img/smd_on.png)
+![SMD ON](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/smd_select.png)
 
 Select "Assemble top side" and "Added by JLCPCB" for tooling holes.
 
