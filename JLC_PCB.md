@@ -8,9 +8,11 @@ Upload the "gerber.zip" file by clicking the "Add Gerber File" button.
 
 ![Add Button](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/add_gerber.png)
 
-The default setting are correct, blue color PCB's are recommended, but it will add two days to the build time.
+The default settings should be ok. However you can choose 'PCB Color', any than green will add two days to the build time.
 
-![PCB Settings](https://github.com/computergeek1507/PB_16/raw/master/img/pcb_settings.png)
+Option: To hide the order number being visable on the PCB change 'Remove Order Number' to 'Specify a location'.
+
+![PCB Settings](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/pcb_settings.png)
 
 ### Surface Mount Assembly Service
 
