@@ -19,13 +19,13 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Download the  [**BOM_BBB_16v2_SMD_PCB.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.xlsx) file in the jlcpcb\assembly folder.
 
-* Download the  [**PickAndPlace_BBB_16v2_SMD_PCB.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/PickAndPlace_BBB_16v2_SMD_PCB.xlsx) file in the jlcpcb\assembly folder.
+* Download the  [**CPL_BBB_16v2_SMD_PCB.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/CPL_BBB_16v2_SMD_PCB.xlsx) file in the jlcpcb\assembly folder.
 
 *  Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account, select Instant Quote and Upload the the Gerber_BBB_16v2_SMD_PCB.zip file.
 
 * The default settings should be ok. However you can choose 'PCB Color' and change 'Remove Order Number' to 'Specify a location'.
 
-* Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the Pick and Place file.
+* Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'CPL_BBB_16v2_SMD_PCB.xlsx' is the CPL file.
  
 
 ## Additional Components Required
