@@ -48,6 +48,7 @@ On the Next page, you will select the BOM and CPL Files to upload.
 
 ![Bom and CPL Process](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/process_bom_cpl.png)
 
+* Bill of Materials page.
 
 The next page will need to confirm all the BOM parts in the 'BOM_xxxxx_SMD_PCB.xlsx' file.
 The LCSC part numbers should be correct, if they are not let me know and I will update them.
