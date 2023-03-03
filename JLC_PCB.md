@@ -58,7 +58,7 @@ The LCSC part numbers should be correct, if they are not let me know and I will 
 
 * Component Placements page.
 
-This page will confirm all the part placements in the CPL XLSX file.
+This page will confirm all the SMD part placements in the CPL XLSX file.
 * Select "Next"
 
 ![Placement Review](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/cpl.png)
