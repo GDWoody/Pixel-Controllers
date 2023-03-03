@@ -36,7 +36,7 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 * There are no power outputs for pixels, only pixel data and ground connections.
 
-* A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
+* A RTC DS3231 AT24C32 can be connected to the board, either top mount RTC 1 or under board mount RTC 2.
 
 * Onboard Resettable Fuse
 
