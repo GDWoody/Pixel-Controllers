@@ -26,7 +26,8 @@ Following the instructions below your boards will arrive with only the SMD compo
 * The default settings should be ok. However you can choose 'PCB Color' and change 'Remove Order Number' to 'Specify a location'.
 
 * Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'CPL_BBB_16v2_SMD_PCB.xlsx' is the CPL file.
- 
+
+## See here for detailed PDC ordering instruction from JLCPCB
 
 ## Additional Components Required
 
