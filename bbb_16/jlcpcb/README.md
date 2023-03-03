@@ -32,7 +32,7 @@ Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAnd
 
 Goto lcsc.com, sign in or make a new account and select 'BOM Tool' and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
 
-
+---
 ## Additional Hardware Required
 
 * A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
