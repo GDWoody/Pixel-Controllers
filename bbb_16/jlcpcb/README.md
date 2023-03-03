@@ -21,9 +21,9 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Download the  [**PickAndPlace_BBB_16v2_SMD_PCB.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/PickAndPlace_BBB_16v2_SMD_PCB.xlsx) file in the jlcpcb\assembly folder.
 
-   Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account, select Instant Quote and Upload the the Gerber_BBB_16v2_SMD_PCB.zip file.
+*  Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account, select Instant Quote and Upload the the Gerber_BBB_16v2_SMD_PCB.zip file.
 
-   Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the Pick and Place file.
+* Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the Pick and Place file.
  
 
 ## Additional Components Required
