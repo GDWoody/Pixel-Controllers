@@ -13,7 +13,7 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 # Features
 
-* 5 Differential RJ45 ports
+* 1 Differential RJ45 port
 
 * 2 DMX Serial ports, DMX 1 can be selected as a DMX or LOR port
 
@@ -30,9 +30,9 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 
 # Modifications
 
-* The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board.
+* 4 extra Differential RJ45 ports
 
-* There are no power outputs for pixels, only pixel data and ground connections.
+* The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board.
 
 * A RTC DS3231 AT24C32 can be connected to the board, either top mount or under mount.
 
