@@ -17,15 +17,15 @@ Option: To hide the order number being visable on the PCB change 'Remove Order N
 ### Surface Mount Assembly Service
 
 
-Scroll down and Enable the SMD service.
+Scroll down and Enable the SMD service and make sure the settings are as in the image.
 
 ![SMD ON](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/smd_select.png)
 
-Select "Assemble top side" and "Added by JLCPCB" for tooling holes.
+Make sure the settings are as in the image.
 
 ![SMD Settings](https://github.com/computergeek1507/PB_16/raw/master/img/smd_settings.png)
 
-Then click "Next" on the right by the Calculated Price heading.
+Then click "Confirm" and then "Next" on the right below the Calculated Price heading.
 
 On the Next page, you will select the BOM and Part Position Files.
 
