@@ -27,7 +27,7 @@ Accept the Terms and Conditions then click "Confirm".
 
 Click "Next" on the right below the Calculated Price heading.
 
-![SMD Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bill_of_materials.png)
+![SMD Next](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/gerber_next.png)
 
 
 
