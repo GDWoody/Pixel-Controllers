@@ -21,7 +21,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Download the  [**PickAndPlace_BBB_16v2_SMD_PCB.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/PickAndPlace_BBB_16v2_SMD_PCB.xlsx) file in the jlcpcb\assembly folder.
 
-Goto jlcpcb.com, sign in or make a new account and select Instant Quote.
+Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account and select Instant Quote.
 Upload the the Gerber_BBB_16v2_SMD_PCB.zip file.
 Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAndPlace_BBB_16v2_SMD_PCB.xlsx' is the Pick and Place file.
  
@@ -30,7 +30,7 @@ Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'PickAnd
 
 * Download the [**BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx) file in the lcsc folder.
 
-Goto lcsc.com, sign in or make a new account and select 'BOM Tool' and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
+Goto [**lcsc.com**](https://lcsc.com), sign in or make a new account and select 'BOM Tool' and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
 
 ---
 ## Additional Hardware Required
