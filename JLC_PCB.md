@@ -39,11 +39,13 @@ On the Next page, you will select the BOM and CPL Files to upload.
 
 * 'BOM_xxxxx_SMD_PCB.xlsx' is the BOM file.
 * 'CPL_xxxxx_SMD_PCB.xlsx' is the CPL file.
-* Click Procces BOM & CPL
+
 
 ![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bom_cpl.png)
 
+* Click Procces BOM & CPL
 
+![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/process_bom_cpl.png)
 ---
 
 The next page will confirm all the BOM parts in the SMD XLSX file. Select "Next" to proceed to placement review. If they are incorrect, let me know and I will update the LCSC part numbers.
