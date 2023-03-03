@@ -18,6 +18,8 @@ Option: To hide the order number being visable on the PCB change 'Remove Order N
 
 
 Scroll down and Enable the SMD service and make sure the settings are as in the image.
+* Accept the Terms and Conditions then click "Confirm".
+* Then click "Next" on the right below the Calculated Price heading.
 
 ![SMD ON](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/smd_select.png)
 
