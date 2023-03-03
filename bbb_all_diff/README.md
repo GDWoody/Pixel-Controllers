@@ -27,7 +27,7 @@ Note: The BBB 16v2 SMD Controller requires 5v DC only! Connecting any other size
 
 * Onboard 24LC256 eeprom
 
-* Reverse Voltage Protection
+* Reverse Voltage Protection LED
 
 * A RTC DS3231 AT24C32 can be connected to the board by either the top header RTC 1 or the under board header RTC 2
 
