@@ -38,3 +38,7 @@ You should now see the uploaded BOM
 * Note: Some parts have a minimum order quantity, you may need to increase the number of parts to reach the minimum required
 
 * Click "Add To Cart" and proceed to Checkout and Shipping as normal.
+
+
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_check.png)
+
