@@ -10,10 +10,12 @@ Go to https://lcsc.com
 
 Upload the 'BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx' file
 
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_Upload.png)
 
-Option: To hide the order number being visable on the PCB change 'Remove Order Number' to 'Specify a location'.
+You shloud now see the uploaded BOM
 
-![PCB Settings](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/pcb_settings.png)
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_.png)
+
 
 ### Surface Mount Assembly Service
 
