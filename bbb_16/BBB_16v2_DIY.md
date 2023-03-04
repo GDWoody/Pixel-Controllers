@@ -9,7 +9,13 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 # BBB 16v2 SMD Controller
 
-Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md). The board is largely the same as Scott's, but with a few modifications.
+DIY instructions to build a BBB 16v2 SMD board.
+
+When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted.
+
+
+![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Only.png)
+
 
 Note: The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does not supply power outputs for pixels, only pixel data and ground connections.
 
