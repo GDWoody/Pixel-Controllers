@@ -50,4 +50,3 @@ Following the instructions below your boards will arrive with only the SMD compo
 ---
 Be sure to fit these three parts to the **underside**.
 
-<img width="960" alt="BBB 16v2 SMD Under" src="https://user-images.githubusercontent.com/117477621/222299693-d09da43c-f987-42a9-9be3-f5594341e06f.png">
