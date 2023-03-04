@@ -23,9 +23,9 @@ Upload the 'BOM_xxxxxx_Other_Parts.xlsx' file
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_Upload.png)
 
 
-* Change 'select type' for the Quantity column to Quantity
+* Change 'select type' for the Quantity column to 'Quantity'
 
-* Change 'select type' for the Supplier Part column to LCSC Part number 
+* Change 'select type' for the Supplier Part column to 'LCSC Part Number'
 
 * Click "Next"
 
