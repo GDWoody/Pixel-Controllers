@@ -27,7 +27,7 @@ Click "Next"
 You should now see the uploaded BOM
 
 
-![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM.png)
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_check.png)
 
 
 ### Surface Mount Assembly Service
