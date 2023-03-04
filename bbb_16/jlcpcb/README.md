@@ -13,7 +13,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 Following the instructions below your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components'.  
 
 
-## To order BBB 16v2 SMD PCBs:
+## To order BBB 16v2 SMD PCBs From JLCPCB:
 
 * Download the  [**Gerber_BBB_16v2_SMD_PCB.zip**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/gerber/Gerber_BBB_16v2_SMD_PCB.zip) file in the jlcpcb\gerber folder.
 
@@ -30,7 +30,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 * [**See here for detailed PCB ordering instructions from JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
 
 
-## Additional Components Required
+## To order Additional Components Required from LCSC
 
 * Download the [**BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx) file in the lcsc folder.
 
