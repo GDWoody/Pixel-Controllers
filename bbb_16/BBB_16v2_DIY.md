@@ -17,8 +17,6 @@ When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted
 
 
 ## The upper side
-
-
 You can now complete the boards with the additional parts you ordered from LCSC.com
 
 
