@@ -20,7 +20,7 @@ When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted
 You can now complete the boards with the additional parts you ordered from LCSC.com
 
 
-* Install the parts with the corrcet orientation 
+* Install the parts with the correct orientation 
 
 * Make sure you install LED 2 with the correct polarity!
 
