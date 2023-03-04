@@ -16,9 +16,20 @@ When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted
 ![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Parts_Only.png)
 
 
-Note: The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does not supply power outputs for pixels, only pixel data and ground connections.
+You can now complete the boards with the parts you ordered from LCSC.com
+
+* The upper side
+
+![Upper Side ](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Other_Only.png)
 
 
+* And the under side
+
+
+![Under Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Under.png)
+
+
+---
 # Features
 
 * 16 local ports with 2 pin connectors
