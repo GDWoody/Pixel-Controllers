@@ -30,7 +30,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 * [**See here for detailed PCB ordering instructions for JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
 
 
-## To order Additional Components Required from LCSC
+## To order Additional Required Parts from LCSC
 
 * Download the [**BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx) file in the lcsc folder.
 
