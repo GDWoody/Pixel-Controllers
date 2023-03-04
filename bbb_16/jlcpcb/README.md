@@ -9,7 +9,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
 ---
-## BBB 16v2 SMD Controller DIY Instructions
+## BBB 16v2 SMD Controller PCB's and Part Ordering
 Following the instructions below your boards will arrive with only the SMD components fitted. To complete them you will also need to get and fit the 'Additional Components'.  
 
 
@@ -27,7 +27,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Enable the SMD service, 'BOM_BBB_16v2_SMD_PCB.xlsx' is the BOM file and 'CPL_BBB_16v2_SMD_PCB.xlsx' is the CPL file.
 
-* [**See here for detailed PCB ordering instructions from JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
+* [**See here for detailed PCB ordering instructions for JLCPCB**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
 
 
 ## To order Additional Components Required from LCSC
@@ -36,7 +36,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Goto [**lcsc.com**](https://lcsc.com), sign in or make a new account and select 'BOM Tool' and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
 
-* [**See here for detailed Parts ordering instructions from LCSC**](https://github.com/GDWoody/Pixel-Controllers/blob/main/LCSC.md)
+* [**See here for detailed Parts ordering instructions for LCSC**](https://github.com/GDWoody/Pixel-Controllers/blob/main/LCSC.md)
 
 ---
 ## Additional Hardware Required
