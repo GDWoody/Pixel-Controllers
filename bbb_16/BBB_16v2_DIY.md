@@ -18,7 +18,7 @@ When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted
 
 You can now complete the boards with the additional parts you ordered from LCSC.com
 
-* The upper side
+## The upper side
 
 * Install the parts with the corrcet orientation 
 
@@ -30,7 +30,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 ![Upper Side ](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Other_Only.png)
 
 
-* And the under side
+## The under side
 
 
 ![Upper Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Under.png)
