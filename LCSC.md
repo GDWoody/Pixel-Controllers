@@ -1,14 +1,15 @@
-## Ordering from [jlcpcb.com](https://jlcpcb.com/)
+## Ordering Parts from [lcsc.com](https://lcsc.com/)
 
-### SMD PCB's
+### Parts to complete PCB's
 
-Go to https://cart.jlcpcb.com/quote to upload the PCB design files.
+Go to https://lcsc.com 
 
-Upload the "gerber.zip" file by clicking the "Add Gerber File" button.
+* Select BOM Tool
 
-![Add Button](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/add_gerber.png)
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC.png)
 
-The default settings should be ok. However you can choose 'PCB Color', any other color than green will add two days to the build time.
+Upload the 'BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx' file
+
 
 Option: To hide the order number being visable on the PCB change 'Remove Order Number' to 'Specify a location'.
 
