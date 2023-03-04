@@ -70,4 +70,14 @@ You should now have a completed board
 
 
  <img width="1151" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/222923293-f8d01a0a-f948-42b5-8b08-5e0a1fc355fc.png">
+ 
 
+ ## Additional Hardware Required
+
+* A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
+
+* A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
+
+* A SSD1306 128x64 OLED Display
+
+---
