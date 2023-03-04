@@ -26,6 +26,9 @@ Click "Next"
 
 You should now see the uploaded BOM
 
+* Check that all parts are there and in stock
+
+* Note: Some parts have a minimum order quantity, you may need to increase the number of parts to reach the minimum required
 
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_check.png)
 
