@@ -2,7 +2,7 @@
 
 ### Parts to complete PCB's
 
-Download the [**BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx) file in the lcsc folder.
+Download the appropriate 'BOM_xxxxxx_Other_Parts.xlsx' file from the lcsc folder for the board you are making.
 
 
 Go to https://lcsc.com 
@@ -14,7 +14,7 @@ Go to https://lcsc.com
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC.png)
 
 
-Upload the 'BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx' file
+Upload the 'BOM_xxxxxx_Other_Parts.xlsx' file
 
 
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_Upload.png)
