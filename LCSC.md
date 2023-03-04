@@ -14,7 +14,7 @@ Upload the 'BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx' file
 
 You shloud now see the uploaded BOM
 
-![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_.png)
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM.png)
 
 
 ### Surface Mount Assembly Service
