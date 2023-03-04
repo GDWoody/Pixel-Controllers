@@ -39,7 +39,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 * [**See here for detailed Parts ordering instructions for LCSC**](https://github.com/GDWoody/Pixel-Controllers/blob/main/LCSC.md)
 
 
-## [**DIY Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_16v2_DIY.md)
+## [**DIY Instructions for a BBB 16v2 SMD Controller build**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_16v2_DIY.md)
 
 ---
 ## Additional Hardware Required
