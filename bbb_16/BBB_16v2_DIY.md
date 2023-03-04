@@ -36,9 +36,6 @@ You should now have a completed board
 
 
 ---
-## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
-
-
  ## Additional Hardware Required
 
 * A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
