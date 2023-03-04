@@ -16,9 +16,9 @@ Note: The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other si
 
 # Features
 
-* 16 local ports with 2 pin connectors
+* 16 local ports with 2 pin Phoenix style connectors
 
-* 1 Differential RJ45 connection
+* 1 Differential RJ45 port
 
 * 2 DMX Serial ports, DMX 1 can be selected as a DMX or LOR port
 
