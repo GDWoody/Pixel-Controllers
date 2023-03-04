@@ -6,13 +6,24 @@ Go to https://lcsc.com
 
 * Select BOM Tool
 
+
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC.png)
+
 
 Upload the 'BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx' file
 
+
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_Upload.png)
 
-You shloud now see the uploaded BOM
+
+Change 'select type' for the *Quantity* column to Quantity and LCSC Part number for the *Supplier Part* column
+
+
+![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_Select_Type.png
+
+
+You should now see the uploaded BOM
+
 
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM.png)
 
