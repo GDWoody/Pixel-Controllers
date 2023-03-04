@@ -5,7 +5,7 @@
 
 Download the appropriate 'BOM_xxxxxx_Other_Parts.xlsx' file from the lcsc folder for the board you are making.
 
-* Note: The minimum number of PCB boards from JLCPCB is 5, this BOM file is to complete 5 PCB's.
+* Note: The minimum number of PCB boards that can be ordered from JLCPCB is 5, this BOM file will have enough parts to complete all 5 PCB's.
 
 
 Go to https://lcsc.com 
