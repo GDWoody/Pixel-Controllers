@@ -22,6 +22,8 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 
 * Note: make sure you install LED 2 with the correct polarity!
 
+* I recomend to use a DIP IC Socket for the EEPROM 24LC256
+
 ![Upper Side ](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Other_Only.png)
 
 
