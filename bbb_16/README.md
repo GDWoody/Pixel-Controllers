@@ -41,13 +41,16 @@ Note: The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other si
 ---
 ## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
 
-## [**To order PCB's**](jlcpcb/)
+## [**Order PCB's from JLCPCB**](jlcpcb/)
 
 
-## [**SMD Assembly Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.xlsx)
+## [**Download SMD Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.xlsx)
 
-## [**Additional Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx)
 
+## [**Download Additional Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx)
+
+
+## [**DIY Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_16v2_DIY.md)
 
  <img width="1151" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/222923293-f8d01a0a-f948-42b5-8b08-5e0a1fc355fc.png">
 
