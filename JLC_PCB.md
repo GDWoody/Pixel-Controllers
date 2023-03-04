@@ -1,5 +1,11 @@
 ## Ordering from [jlcpcb.com](https://jlcpcb.com/)
 
+Download the appropriate files from the jlcpcb/assembly folder for the board you are making.
+
+* 'Gerber_xxxxx_SMD_PCB.zip' is the Gerber file.
+* 'BOM_xxxxx_SMD_PCB.xlsx' is the BOM file.
+* 'CPL_xxxxx_SMD_PCB.xlsx' is the CPL file.
+
 ### SMD PCB's
 
 Go to https://cart.jlcpcb.com/quote to upload the PCB design files.
