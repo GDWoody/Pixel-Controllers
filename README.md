@@ -20,7 +20,7 @@ Disclaimer: If you wish to build your own boards, please do so at your own risk.
 ## [**BBB 16v2 SMD**](bbb_16/)
 
 
-<img width="1169" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/221608795-67298623-31b7-4faf-aeb1-eaf94f2c1ae8.png">
+<img width="1151" alt="BBB_16v2_SMD" src="https://user-images.githubusercontent.com/117477621/222923180-642bce1c-6dd6-41e9-98b8-1c96aef2e355.png">
 
 
 ---
