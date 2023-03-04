@@ -16,7 +16,7 @@ Upload the 'BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx' file
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_BOM_Upload.png)
 
 
-Change 'select type' for the *Quantity* column to Quantity and LCSC Part number for the #Supplier Part# column
+Change 'select type' for the *Quantity* column to Quantity and LCSC Part number for the # Supplier Part # column
 
 
 ![LCSC](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/LCSC_Select_Type.png)
