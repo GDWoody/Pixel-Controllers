@@ -39,24 +39,7 @@ Note: The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other si
 * Screw Terminal Block with 4 Additional GND connections
 
 ---
-# Files and Links
-
-## [**Download Gerber file**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/gerber/Gerber_BBB_16v2_SMD_PCB.zip)
-
-
-## [**Download SMD Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/jlcpcb/assembly/BOM_BBB_16v2_SMD_PCB.xlsx)
-
-
-## [**Download Additional Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx)
-
-
 ## [**DIY Build Infomation**](jlcpcb/)
-
-
-## [**DIY Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_16v2_DIY.md)
-
-
-## [**EEPROM Download**](https://github.com/GDWoody/Pixel-Controllers/blob/main/eeprom/BBB16v2-221118135219-eeprom.bin)
 
 
 ## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
