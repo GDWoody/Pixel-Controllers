@@ -37,32 +37,7 @@ Note: The BBB 8v1 SMD Push Fit Controller requires a 5v DC only! Connecting any 
 * Onboard Resettable Fuse
 
 ---
-# Files and Links
-
-## [**Download Gerber file**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/gerber/Gerber_BBB_8v1_SMD_PCB_Push.zip)
-
-
-## [**Download SMD Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/assembly/BOM_BBB_8v1_SMD_Push.xlsx)
-
-
-## [**Download CPL File**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/assembly/CPL_BBB_8v1_SMD_PCB_Push.xlsx)
-
-
-## [**Download Additional Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/lcsc/BOM_BBB_8v1_SMD_Push_other_parts.xlsx)
-
-
 ## [**DIY Build Infomation**](jlcpcb/)
-
-## [**Order PCB's and Parts**](jlcpcb/)
-
-
-## [**DIY Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/BBB_8P_Push_DIY.md)
-
-
-## [**EEPROM Download**](https://github.com/GDWoody/Pixel-Controllers/blob/main/eeprom/BBB16v2-221118135219-eeprom.bin)
-
-
-## [**Interactive Bom**](https://gdwoody.github.io/bbb_8_push/BOM_BBB_8_Push_ibom.html)
 
 
 ![BBB_8v1_SMD_Push](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_8v1_SMD_Push.png)
