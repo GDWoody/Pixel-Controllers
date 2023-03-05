@@ -39,7 +39,7 @@ Note: The BBB 8v1 SMD Push Fit Controller requires a 5v DC only! Connecting any 
 ---
 # Files and Links
 
-## [**Download Gerber file**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/gerber/Gerber_BBB 8v1_SMD_PCB_Push.zip)
+## [**Download Gerber file**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/gerber/Gerber_BBB_8v1_SMD_PCB_Push.zip)
 
 
 ## [**Download SMD Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/assembly/BOM_BBB_8v1_SMD_Push.xlsx)
