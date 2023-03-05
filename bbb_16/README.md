@@ -50,7 +50,7 @@ Note: The BBB 16v2 SMD Controller requires a 5v DC only! Connecting any other si
 ## [**Download Additional Parts Bom**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/lcsc/BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx)
 
 
-## [**Order PCB's and Parts**](jlcpcb/)
+## [**DIY Build Infomation**](jlcpcb/)
 
 
 ## [**DIY Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_16v2_DIY.md)
