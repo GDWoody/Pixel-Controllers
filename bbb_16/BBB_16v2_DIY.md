@@ -56,6 +56,12 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 ![SSD1306](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD.png)
 
 
+ ## EEPROM
+
+ *
+
+ *
+
 ---
  ## Additional Hardware Required
 
