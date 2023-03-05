@@ -13,7 +13,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted.
 
 
-![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Parts_Only.png)
+![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Only.png)
 
 
 ## Upper side DIY Parts
