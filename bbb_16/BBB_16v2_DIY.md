@@ -40,7 +40,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 ![Upper Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Under.png)
 
 
-You should now have a completed board
+## You should now have a completed board
 
 
 ![Completed](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Completed.png)
