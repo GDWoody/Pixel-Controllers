@@ -58,7 +58,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 
  ## EEPROM
 
- * [Scott's EEPROM Download](https://github.com/GDWoody/Pixel-Controllers/blob/main/eeprom/)
+ * [Scott's EEPROM Download](https://github.com/GDWoody/Pixel-Controllers/blob/main/eeprom/BBB16v2-221118135219-eeprom.bin)
 
  * [Scott's EEPROM lashing instructions](https://github.com/computergeek1507/PB_16/blob/master/Flashing_EEPROM.md)
 
