@@ -16,7 +16,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 ## To order BBB 8v1 SMD PCBs From JLCPCB:
 
-* Download the  [**Gerber_BBB 8v1_SMD_PCB_Push.zip**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/jlcpcb/gerber/Gerber_BBB 8v1_SMD_PCB_Push.zip) file in the jlcpcb\gerber folder.
+* Download the  [**Gerber_BBB_8v1_SMD_PCB_Push.zip**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/jlcpcb/gerber/Gerber_BBB_8v1_SMD_PCB_Push.zip) file in the jlcpcb\gerber folder.
 
 * Download the  [**BOM_BBB_8v1_SMD_Push.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/jlcpcb/assembly/BOM_BBB_8v1_SMD_Push.xlsx) file in the jlcpcb\assembly folder.
 
