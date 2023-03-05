@@ -16,7 +16,7 @@ When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted
 ![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Parts_Only.png)
 
 
-## The upper side
+## Upper side DIY Parts
 You can now complete the boards with the additional parts you ordered from LCSC.com
 
 
@@ -30,7 +30,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 ![Upper Side ](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Other_Only.png)
 
 
-## The under side
+## Under side DIY Parts
 
 
 ![Upper Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Under.png)
