@@ -40,10 +40,10 @@ Following the instructions below your boards will arrive with only the SMD compo
 * [**See here for detailed Parts ordering instructions for LCSC**](https://github.com/GDWoody/Pixel-Controllers/blob/main/LCSC.md)
 
 
-## [**DIY Instructions for a BBB 16v2 SMD Controller build**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_16v2_DIY.md)
+## [**DIY Instructions for a BBB 8v1 SMD Controller build**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/BBB_8v1_DIY.md)
 
 
-## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
+## [**Interactive Bom**](https://gdwoody.github.io/bbb_8/BOM_BBB_8v1_SMD_ibom.html)
 
 
 
