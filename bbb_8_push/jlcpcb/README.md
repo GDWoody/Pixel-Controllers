@@ -16,11 +16,11 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 ## To order BBB 8v1 SMD Push Fit PCBs From JLCPCB:
 
-* Download the  [**Gerber_BBB_8v1_SMD_PCB_Push.zip**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/jlcpcb/gerber/Gerber_BBB_8v1_SMD_PCB_Push.zip) file in the jlcpcb\gerber folder.
+* Download the  [**Gerber_BBB_8v1_SMD_PCB_Push.zip**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/gerber/Gerber_BBB_8v1_SMD_PCB_Push.zip) file in the jlcpcb\gerber folder.
 
-* Download the  [**BOM_BBB_8v1_SMD_Push.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/jlcpcb/assembly/BOM_BBB_8v1_SMD_Push.xlsx) file in the jlcpcb\assembly folder.
+* Download the  [**BOM_BBB_8v1_SMD_Push.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/assembly/BOM_BBB_8v1_SMD_Push.xlsx) file in the jlcpcb\assembly folder.
 
-* Download the  [**CPL_BBB_8v1_SMD_PCB_Push.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/jlcpcb/assembly/CPL_BBB_8v1_SMD_PCB_Push.xlsx) file in the jlcpcb\assembly folder.
+* Download the  [**CPL_BBB_8v1_SMD_PCB_Push.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/jlcpcb/assembly/CPL_BBB_8v1_SMD_PCB_Push.xlsx) file in the jlcpcb\assembly folder.
 
 *  Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account, select Instant Quote and Upload the the Gerber_BBB_8v1_SMD_PCB_Push.zip file.
 
