@@ -32,9 +32,9 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 
 ## Under side DIY Parts
 
-* 2 46 pin headers
+* Two 46 pin headers
 
-* 1 6 pin right angle header 
+* One 6 pin right angle header 
 
 
 ![Upper Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Under.png)
