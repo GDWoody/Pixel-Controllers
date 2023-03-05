@@ -42,6 +42,13 @@ You should now have a completed board
 ![Completed](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Completed.png)
 
 
+## SSD1306 128x64
+
+* Note: Some SSD1306 OLED displays have different VCC and GND pin layout
+
+* Before powering up use the 'SSD1306 Select Switch' to set Pin1 and Pin2 on the SSD1306 128x64 header for your OLED display!
+
+
 ![SSD1306](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD.png)
 
 
