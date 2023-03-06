@@ -42,6 +42,6 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
  
 
 ![Image of BBB 8v1
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_8v1_SMD.png)
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/BBB_8v1_SMD.png)
 
 	
