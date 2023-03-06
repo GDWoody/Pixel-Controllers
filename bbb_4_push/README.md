@@ -7,18 +7,18 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# BBB 8v1 SMD Push Fit Controller
+# BBB 4v1 SMD Push Fit Controller
 
 Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md). The board is largely the same as Scott's, but with a few modifications.
 
-Note: The BBB 8v1 SMD Push Fit Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does no supply power outputs for pixels, only pixel data and ground connections.
+Note: The BBB 4v1 SMD Push Fit Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does no supply power outputs for pixels, only pixel data and ground connections.
 
 
 # Features
 
-* 8 local ports with push fit connectors
+* 4 local ports with push fit connectors
 
-* 3 Differential RJ45 ports
+* 4 Differential RJ45 ports
 
 * 2 DMX Serial ports, DMX 1 can be selected as a DMX or LOR port
 
@@ -37,10 +37,9 @@ Note: The BBB 8v1 SMD Push Fit Controller requires a 5v DC only! Connecting any 
 * Onboard Resettable Fuse
 
 ---
-## [**DIY Build Infomation**](jlcpcb/)
 
 
-![BBB_8v1_SMD_Push](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/image/BBB_8v1_SMD_Push.png)
+![BBB_4v1_SMD_Push](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4_push/image/BBB_4v1_Push.png)
 
 
  
