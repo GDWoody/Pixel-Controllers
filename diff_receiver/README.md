@@ -19,10 +19,15 @@ Note: All Differential Receiver Boards are 5v DC only! Connecting any other size
 * v3 boards have 2 pin pheonix style plug connectors
 
 * v4 boards have push fit connectors 
-
-
-
  
 
-![Image of BBB16
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/Dff_Expansion.png)
+![Image of v2
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/Diff_Recv_v2.png)
+
+
+![Image of v3
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/Diff_Recv_v3.png)
+
+
+![Image of v4
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/Diff_Recv_v4.png)
