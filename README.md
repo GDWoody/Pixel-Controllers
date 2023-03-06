@@ -58,6 +58,9 @@ I created different variants of the BB 16v2 SMD, to give more options for specif
 * [**16 Expansion**](bbb_16_expansion/) - 16 Port Local Expansion.
 
 
+
+
+
 ## Additional Hardware Required
 
 * A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)

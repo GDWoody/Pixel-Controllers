@@ -7,10 +7,14 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# Differential Expansion Board
+# Differential Receiver Boards
+
+Note: All Differential Receiver Boards are 5v DC only! Connecting any other size power source will damage the board. The boards do not supply power outputs for pixels, only pixel data and ground connections.
 
 
-* 4 port Differential Output Expansion Board for Differential Recievers. 
+* 4 port Differential Recievers. 
+
+
 
  
 
