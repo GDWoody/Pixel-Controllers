@@ -57,14 +57,14 @@ I created different variants of the BB 16v2 SMD, to give more options for specif
 
 * [**16 Port Expansion**](bbb_16_expansion/) - 16 Port Local Expansion.
 
-
+---
 # Differential Receiver Boards
  All Receiver Boards are compatable with my BBB boards and variants.
 
 
 * [**Differential Receivers**](diff_receiver/) - 4 Port Remote Differential Receivers.
 
-
+---
 ## Additional Hardware Required
 
 * A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
