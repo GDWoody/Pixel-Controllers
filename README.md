@@ -67,7 +67,8 @@ I created different variants of the BB 16v2 SMD, to give more options for specif
 ---
 ## Additional Hardware Required
 
-* A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
+* A good quality SD card with FPP installed on it.
+FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
 
 * A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
 
