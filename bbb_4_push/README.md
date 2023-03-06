@@ -38,7 +38,6 @@ Note: The BBB 4v1 SMD Push Fit Controller requires a 5v DC only! Connecting any 
 
 ---
 
-
 ![BBB_4v1_SMD_Push](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4_push/image/BBB_4v1_Push.png)
 
 
