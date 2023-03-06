@@ -21,7 +21,7 @@ Disclaimer: If you wish to build your own boards, please do so at your own risk.
 
 
 ![Image of BBB 16v2 SMD
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_SMD)
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_SMD.png)
 
 ---
 ## [**Ordering PCB's from JLCPCB Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/JLC_PCB.md)
