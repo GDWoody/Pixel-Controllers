@@ -45,6 +45,9 @@ I created different variants of the BB 16v2 SMD, to give more options for specif
 * [**BBB 4v1 SMD**](bbb_4/) - 4 local ports, 4 Differential ports and 2 serial ports.
 
 
+* [**BBB 4v1 SMD Push Fit**](bbb_4_push/) - 4 local ports with push fit connectors, 4 Differential ports and 2 serial ports
+
+
 * [**BBB All Diff v1**](bbb_all_diff/) - No local ports, 5 Differential ports and 2 serial ports.
 
 
