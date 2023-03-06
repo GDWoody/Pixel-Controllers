@@ -12,7 +12,13 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 Note: All Differential Receiver Boards are 5v DC only! Connecting any other size power source will damage the board. The boards do not supply power outputs for pixels, only pixel data and ground connections.
 
 
-* 4 port Differential Recievers. 
+* All boards have 4 output ports
+
+* v2 boards have screw terminals
+
+* v3 boards have 2 pin pheonix style plug connectors
+
+* v4 boards have push fit connectors 
 
 
 
