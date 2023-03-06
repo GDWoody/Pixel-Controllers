@@ -52,13 +52,17 @@ I created different variants of the BB 16v2 SMD, to give more options for specif
  All Expansion Boards are compatable with my BBB boards and variants.
 
 
-* [**Diff Expansion**](bbb_diff_expansion/) - 4 Port Remote Differential Expansion (24 pins).
+* [**Differential Expansion**](bbb_diff_expansion/) - 4 Port Remote Differential Expansion (24 pins).
 
 
-* [**16 Expansion**](bbb_16_expansion/) - 16 Port Local Expansion.
+* [**16 Port Expansion**](bbb_16_expansion/) - 16 Port Local Expansion.
 
 
+# Differential Receiver Boards
+ All Receiver Boards are compatable with my BBB boards and variants.
 
+
+* [**Differential Receivers**](diff_receiver/) - 4 Port Remote Differential Receivers.
 
 
 ## Additional Hardware Required
