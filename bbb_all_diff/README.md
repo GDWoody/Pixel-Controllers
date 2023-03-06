@@ -36,7 +36,7 @@ Note: The BBB 16v2 SMD Controller requires 5v DC only! Connecting any other size
 * Screw Terminal Blocks with 8 Additional GND connections
  
 
-![Image of BBB All Diff
+![Image of BBB_All_Diff
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/all_diff/image/BBB_All_Diff.png)
 
 
