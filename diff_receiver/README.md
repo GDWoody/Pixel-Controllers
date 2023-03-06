@@ -1,0 +1,18 @@
+## Copyright and Disclaimer
+Copyright: GDWoody
+
+This documentation describes Open Hardware and is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. (CERN-OHL-S)
+
+You may redistribute and modify this documentation under the terms of the CERN OHL-S-v2 (https://ohwr.org/cern_ohl_s_v2.txt). This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v2-S for applicable conditions
+
+Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
+
+# Differential Expansion Board
+
+
+* 4 port Differential Output Expansion Board for Differential Recievers. 
+
+ 
+
+![Image of BBB16
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/Dff_Expansion.png)
