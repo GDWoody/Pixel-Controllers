@@ -41,7 +41,7 @@ Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [htt
 * Onboard Resettable Fuse
  
 
-![Image of BBB16
+![Image of BBB 8v1
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_8v1_SMD.png)
 
 	
