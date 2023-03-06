@@ -14,5 +14,5 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
  
 
-![Image of BBB16
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/Dff_Expansion.png)
+![Image of Diff Expansion
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_diff_expansion/image/Diff_Expansion.png)
