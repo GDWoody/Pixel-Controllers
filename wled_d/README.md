@@ -21,7 +21,7 @@ Note: The WLED Differential Controller requires a 5v DC only! Connecting any oth
 
 * GPIO 15 Relay Connector
 
-* Timer Delay Connections
+* Power On Timer Delay Connections
 
 ## Additional Hardware Required
 
