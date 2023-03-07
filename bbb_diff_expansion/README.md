@@ -10,7 +10,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 # Differential Expansion Board
 
 
-* 4 port Differential Output Expansion Board for Differential Recievers. 
+* 4 port Differential Output Expansion Board. 
 
  
 
