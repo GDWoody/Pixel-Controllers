@@ -19,6 +19,13 @@ Note: The WLED 4 Port Controller requires a 5v DC only! Connecting any other siz
 
 * Reverse Voltage Protection
 
+* GPIO 15 Relay Connector
+
+* Timer Delay Connections
+
+## Additional Hardware Required
+
+* A ESP32 WT32-ETH01 with WLED Software installed.
 
 
 ![Image of WLED 4 Port
