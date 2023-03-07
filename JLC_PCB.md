@@ -2,7 +2,7 @@
 
 Download the Gerber file from the jlcpcb/gerber folder for the board you are making.
 
-* 'Gerber_xxxxx_SMD_PCB.zip' is the Gerber file.
+* 'Gerber_xxxxxxx.zip' is the Gerber file.
 
 Download the BOM and CPL files from the jlcpcb/assembly folder for the board you are making.
 
