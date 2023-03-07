@@ -29,6 +29,8 @@ Note: The WLED 4 Port Controller requires a 5v DC only! Connecting any other siz
 
 * WLED Software can be found at [**https://github.com/Aircoookie/WLED/releases**](https://github.com/Aircoookie/WLED/releases)
 
+* WLED Software Installation and Help can be found at [**https://kno.wled.ge/basics/getting-started/**](https://kno.wled.ge/basics/getting-started/)
+
 
 ![Image of WLED 4 Port
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled/image/WLED_WT32.png)
