@@ -15,7 +15,7 @@ Note: The BBB 8v1 SMD Controller requires a 5v DC only! Connecting any other siz
 
 # Features
 
-* 8 local ports
+* 8 local ports with 2 pin Phoenix style connectors
 
 * 3 Differential RJ45 ports
 
