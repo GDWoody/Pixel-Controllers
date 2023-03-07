@@ -15,7 +15,7 @@ Note: The BBB 4v1 SMD Controller requires a 5v DC only! Connecting any other siz
 
 # Features
 
-* 4 local ports
+* 4 local ports with 2 pin Phoenix style connectors
 
 * 4 Differential RJ45 ports
 
