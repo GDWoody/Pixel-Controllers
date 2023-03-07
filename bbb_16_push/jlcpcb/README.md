@@ -44,6 +44,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 
 ## [**Interactive Bom**](https://gdwoody.github.io/bbb_16_push/BBB_16v2_SMD_Push_ibom.html)
+
 ---
 ## Additional Components Required
 
