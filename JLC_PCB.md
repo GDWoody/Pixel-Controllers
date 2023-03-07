@@ -6,14 +6,14 @@ Download the Gerber file from the jlcpcb/gerber folder for the board you are mak
 
 Download the BOM and CPL files from the jlcpcb/assembly folder for the board you are making.
 
-* 'BOM_xxxxx_SMD_PCB.xlsx' is the BOM file.
-* 'CPL_xxxxx_SMD_PCB.xlsx' is the CPL file.
+* 'BOM_xxxxxxx.xlsx' is the BOM file.
+* 'CPL_xxxxxxx.xlsx' is the CPL file.
 
 ### SMD PCB's
 
 Go to https://cart.jlcpcb.com/quote to upload the PCB design files.
 
-Upload the "Gerber_xxxxx_SMD_PCB.zip" file by clicking the "Add Gerber File" button.
+Upload the "Gerber_xxxxx.zip" file by clicking the "Add Gerber File" button.
 
 ![Add Button](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/add_gerber.png)
 
@@ -49,8 +49,8 @@ Click "Next"
 
 Select the BOM and CPL Files to upload.
 
-* 'BOM_xxxxx_SMD_PCB.xlsx' is the BOM file.
-* 'CPL_xxxxx_SMD_PCB.xlsx' is the CPL file.
+* 'BOM_xxxxxxx.xlsx' is the BOM file.
+* 'CPL_xxxxxxx.xlsx' is the CPL file.
 
 
 ![Bom and CPL](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/bom_cpl.png)
@@ -61,7 +61,7 @@ Select the BOM and CPL Files to upload.
 ![Bom and CPL Process](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/process_bom_cpl.png)
 
 
-The next page will need to confirm all the BOM parts in the 'BOM_xxxxx_SMD_PCB.xlsx' file.
+The next page will need to confirm all the BOM parts in the 'BOM_xxxxxxxx.xlsx' file.
 
 * Click "Next"
 
