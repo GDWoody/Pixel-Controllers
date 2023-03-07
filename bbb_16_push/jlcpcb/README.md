@@ -35,7 +35,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Download the [**BOM_BBB_16v2_SMD_Push_other_parts.xlsx**](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/lcsc/BOM_BBB_16v2_SMD_Push_other_parts.xlsx) file in the lcsc folder.
 
-* Goto [**lcsc.com**](https://lcsc.com), sign in or make a new account and select 'BOM Tool' and upload the BOM_BBB_16v2_SMD_PCB_Other_Parts.xlsx file.
+* Goto [**lcsc.com**](https://lcsc.com), sign in or make a new account and select 'BOM Tool' and upload the /BOM_BBB_16v2_SMD_Push_other_parts.xlsx file.
 
 * [**See here for detailed Parts ordering instructions for LCSC**](https://github.com/GDWoody/Pixel-Controllers/blob/main/LCSC.md)
 
