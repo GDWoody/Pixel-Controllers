@@ -27,6 +27,8 @@ Note: The WLED 4 Port Controller requires a 5v DC only! Connecting any other siz
 
 * A ESP32 WT32-ETH01 with WLED Software installed.
 
+* WLED Software can be found at [**https://github.com/Aircoookie/WLED/releases**](https://github.com/Aircoookie/WLED/releases)
+
 
 ![Image of WLED 4 Port
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled/image/WLED_WT32.png)
