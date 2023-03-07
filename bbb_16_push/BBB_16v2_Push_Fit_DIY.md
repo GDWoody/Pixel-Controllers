@@ -53,7 +53,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 * Before powering up use the 'SSD1306 Select Switch' to set Pin1 and Pin2 on the SSD1306 128x64 header for your OLED display!
 
 
-![SSD1306](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_pus/image/BBB_16v2_SMD_Push.png)
+![SSD1306](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/image/BBB_16v2_SMD_Push.png)
 
 
  ## EEPROM
