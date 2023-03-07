@@ -11,7 +11,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 Customised Pixel Controller based on Scott Hanson's BBB 16v2 SMD controller [https://github.com/computergeek1507/PB_16](https://github.com/computergeek1507/PB_16/blob/master/BBB_16_SMD/README.md). The board is largely the same as Scott's, but with a few modifications.
 
-Note: The WLED 4 Port Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does not supply power outputs for pixels, only pixel data and ground connections.
+Note: The WLED Differential Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does not supply power outputs for pixels, only pixel data and ground connections.
 
 # Features
 
@@ -32,7 +32,7 @@ Note: The WLED 4 Port Controller requires a 5v DC only! Connecting any other siz
 * WLED Software Installation and Help can be found at [**https://kno.wled.ge/basics/getting-started/**](https://kno.wled.ge/basics/getting-started/)
 
 
-![Image of WLED 4 Port
+![Image of WLED Differential
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled_d/image/WLED_WT32_Differential.png)
 
 
