@@ -31,8 +31,7 @@ Note: The WLED Differential Controller requires a 5v DC only! Connecting any oth
 
 * WLED Software Installation and Help can be found at [**https://kno.wled.ge/basics/getting-started/**](https://kno.wled.ge/basics/getting-started/)
 
-* Fully Compatable with [**Differential Receivers - 4 Port Remote Differential Receivers**](https://github.com/GDWoody/Pixel-Controllers/tree/main/diff_receiver/) - 4 Port Remote Differential Receivers.
-
+* Fully Compatable with [**Differential Receivers - 4 Port Remote Differential Receivers**](https://github.com/GDWoody/Pixel-Controllers/tree/main/diff_receiver/)
 
 ![Image of WLED Differential
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled_d/image/WLED_WT32_Differential.png)
