@@ -21,7 +21,7 @@ Note: The WLED 4 Port Controller requires a 5v DC only! Connecting any other siz
 
 * GPIO 15 Relay Connector
 
-* Timer Delay Connections
+* Power On Timer Delay Connections
 
 ## Additional Hardware Required
 
