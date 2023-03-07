@@ -31,13 +31,15 @@ Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/diff_receiver/image/
 
 ## v3
 
-* 2 Pin Pheonix Style Connectors
+* 2 Pin Phoenix Style Connectors
 
 ![Image of v3
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/diff_receiver/image/Diff_Recv_v3.png)
 
-* Push Fit Connectors
 
 ## v4
+
+* Push Fit Connectors
+
 ![Image of v4
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/diff_receiver/image/Diff_Recv_v4.png)
