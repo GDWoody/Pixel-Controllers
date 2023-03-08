@@ -7,7 +7,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# DIY Instructions for a Controller build
+# DIY Instructions for all Controller Boards
 
 
 ## The example images shown here are for the BBB 16v2 but these instrutions apply to all Controller Boards.
@@ -15,7 +15,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted.
 
 
-![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Only.png)
+![SMD Only](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_SMD_Only.png)
 
 
 ## Upper side DIY Parts
@@ -29,7 +29,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 * I recomend to use a DIP IC Socket for the 24LC256 EEPROM
 
 
-![Upper Side ](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Other_Only.png)
+![Upper Side ](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_Other_Only.png)
 
 
 ## Under side DIY Parts
@@ -39,7 +39,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 * One 6 pin right angle header 
 
 
-![Upper Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD_Under.png)
+![Upper Side](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_SMD_Under.png)
 
 
 ## You should now have a completed board
@@ -55,7 +55,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 * Before powering up use the 'SSD1306 Select Switch' to set Pin1 and Pin2 on the SSD1306 128x64 header for your OLED display!
 
 
-![SSD1306](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_SMD.png)
+![SSD1306](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_SMD.png)
 
 
  ## EEPROM
