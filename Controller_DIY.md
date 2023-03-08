@@ -68,6 +68,10 @@ You can now complete the boards with the additional parts you ordered from LCSC.
  * [Scott's EEPROM lashing instructions](https://github.com/computergeek1507/PB_16/blob/master/Flashing_EEPROM.md)
 
 ---
+## Controller iBOM's
+
+* 
+
  ## Additional Hardware Required
 
 * A good quality SD card with FPP installed on it. FPP images can be found at [**https://github.com/FalconChristmas/fpp/releases**](https://github.com/FalconChristmas/fpp/releases)
