@@ -27,7 +27,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 
 * Install the parts with the correct orientation 
 
-* Make sure you install LED 2 with the correct polarity!
+* Make sure LED 2 is installed with the correct polarity!
 
 * I recomend to use a DIP IC Socket for the 24LC256 EEPROM
 
