@@ -56,4 +56,3 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 ---
 Be sure to fit these three parts to the **underside**.
-
