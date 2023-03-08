@@ -37,6 +37,7 @@ Note: The BBB 4v1 SMD Controller requires a 5v DC only! Connecting any other siz
 
 * Onboard Resettable Fuse
  
+## [**DIY Build Infomation**](https://github.com/GDWoody/Pixel-Controllers/blob/main/build.md)
 
 ![Image of BBB 4v1
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4/image/BBB_4v1_SMD.png)
