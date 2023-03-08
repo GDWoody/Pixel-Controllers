@@ -15,6 +15,8 @@ Note: The BBB All Diff SMD Controller requires 5v DC only! Connecting any other 
 
 # Features
 
+* 700 pixel per output at 40 FPS or 1300 at 20 FPS
+
 * 5 Differential RJ45 ports
 
 * 2 DMX Serial ports, DMX 1 can be selected as a DMX or LOR port
