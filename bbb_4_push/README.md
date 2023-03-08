@@ -16,6 +16,8 @@ Note: The BBB 4v1 SMD Push Fit Controller requires a 5v DC only! Connecting any 
 
 # Features
 
+* 700 pixel per output at 40 FPS or 1300 at 20 FPS
+
 * 4 local ports with push fit connectors
 
 * 4 Differential RJ45 ports
