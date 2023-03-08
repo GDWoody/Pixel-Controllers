@@ -36,7 +36,8 @@ Note: The BBB All Diff SMD Controller requires 5v DC only! Connecting any other 
 * Onboard Resettable Fuse
 
 * Screw Terminal Blocks with 8 Additional GND connections
- 
+
+## [**DIY Build Infomation**](https://github.com/GDWoody/Pixel-Controllers/blob/main/build.md) 
 
 ![Image of BBB_All_Diff
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_all_diff/image/BBB_All_Diff.png)
