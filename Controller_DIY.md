@@ -48,7 +48,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 ## You should now have a completed board
 
 
-![Completed](https://github.com/GDWoody/Pixel-Controllers/blob/main/image/BBB_16v2_Completed.png)
+![Completed](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_Completed.png)
 
 
 ## SSD1306 128x64 OLED Display
