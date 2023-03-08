@@ -15,6 +15,8 @@ Note: The BBB 16v2 SMD Push Fit Controller requires a 5v DC only! Connecting any
 
 # Features
 
+* 700 pixel per output at 40 FPS or 1300 at 20 FPS
+
 * 16 local ports with push fit connectors
 
 * 1 Differential RJ45 connection
