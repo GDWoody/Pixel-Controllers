@@ -22,7 +22,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 * Download the  **BOM_xxxxxxx.xlsx** file in the jlcpcb\assembly folder.
 
-* Download the **CPL_BBB_xxxxxxx.xlsx** file in the jlcpcb\assembly folder.
+* Download the **CPL_xxxxxxx.xlsx** file in the jlcpcb\assembly folder.
 
 *  Goto [**jlcpcb.com**](https://jlcpcb.com), sign in or make a new account, select Instant Quote and Upload the the Gerber_xxxxxx.zip file.
 
