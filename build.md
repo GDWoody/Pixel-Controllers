@@ -14,6 +14,8 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 ## To order PCB's From JLCPCB:
 
+* All the files needed to order from [**jlcpcb.com**](https://jlcpcb.com) are in the jlcpcb/gerber, jlcpcb/assembly folders for each board
+
 * Select the board you wish to make
 
 * Download the  **Gerber_xxxxxxx.zip** from the jlcpcb\gerber folder.
@@ -32,6 +34,8 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 
 ## To order Additional Required Parts from LCSC
+
+* All the files needed to order from [**lcsc.com**](https://lcsc.com) are in the lcsc/ folders for each board
 
 * Download the **BOM_xxxxxxx_Other_Parts.xlsx** file in the lcsc folder.
 
