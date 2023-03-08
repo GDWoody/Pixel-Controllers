@@ -10,7 +10,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 # DIY Instructions for all Controller Boards
 
 
-### Instructions apply to all Controller Boards, the example images shown here are for the BBB 16v2.
+**Instructions apply to all Controller Boards, the example images shown here are for the BBB 16v2.**
 
 ## SMD Parts
 
