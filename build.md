@@ -43,8 +43,6 @@ Following the instructions below your boards will arrive with only the SMD compo
 ## [**Controller DIY Build Instructions**](https://github.com/GDWoody/Pixel-Controllers/blob/main/Controller_DIY.md)
 
 
-## [**Interactive Bom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
-
 ---
 ## Additional Hardware Required
 
