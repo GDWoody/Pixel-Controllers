@@ -68,7 +68,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
  * [Scott's EEPROM lashing instructions](https://github.com/computergeek1507/PB_16/blob/master/Flashing_EEPROM.md)
 
 ---
-## Controller iBOM's
+## Controller iBom's
 
 * 
 
