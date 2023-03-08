@@ -37,6 +37,7 @@ Note: The BBB 16v2 SMD Push Fit Controller requires a 5v DC only! Connecting any
 
 * Onboard Resettable Fuse
 
+## [**DIY Build Infomation**](https://github.com/GDWoody/Pixel-Controllers/blob/main/build.md)
 
 ![Image of BBB_16v2_SMD_Push
 Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/image/BBB_16v2_SMD_Push.png)
