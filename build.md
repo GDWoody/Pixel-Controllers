@@ -14,7 +14,7 @@ Following the instructions below your boards will arrive with only the SMD compo
 
 ## To order PCB's From JLCPCB:
 
-* All the files needed to order from [**jlcpcb.com**](https://jlcpcb.com) can be found in the jlcpcb/gerber, jlcpcb/assembly folders for each board.
+* All the files needed to order from [**jlcpcb.com**](https://jlcpcb.com) can be found in the jlcpcb/gerber and jlcpcb/assembly folders for each board.
 
 * Select the board you wish to make
 
