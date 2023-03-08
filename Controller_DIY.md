@@ -7,8 +7,10 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# DIY Instructions for a BBB 16v2 SMD Controller build
+# DIY Instructions for a Controller build
 
+
+## The example images shown here are for the BBB 16v2 but these instrutions apply to all Controller Boards.
 
 When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted.
 
