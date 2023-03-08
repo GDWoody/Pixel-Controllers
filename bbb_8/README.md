@@ -15,6 +15,8 @@ Note: The BBB 8v1 SMD Controller requires a 5v DC only! Connecting any other siz
 
 # Features
 
+* 700 pixel per output at 40 FPS or 1300 at 20 FPS
+
 * 8 local ports with 2 pin Phoenix style connectors
 
 * 3 Differential RJ45 ports
