@@ -73,6 +73,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 * ## [**BBB 16v2 iBom**](https://gdwoody.github.io/bbb_16/ibom.html)
 * ## [**BBB 16v2 Push Fit iBom**](https://gdwoody.github.io/bbb_16_push/ibom.html)
 * ## [**BBB 8v1 iBom**](https://gdwoody.github.io/bbb_8/ibom.html)
+## [**BBB 8v1 Push FitiBom**](https://gdwoody.github.io/bbb_8_push/ibom.html)
 
  ## Additional Hardware Required
 
