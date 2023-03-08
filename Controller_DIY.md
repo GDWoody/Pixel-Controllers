@@ -12,6 +12,8 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 ### The example images shown here are for the BBB 16v2 but the instrutions apply to all Controller Boards.
 
+## SMD Parts
+
 When you recieve your PCB's from JLCPCB they will only have the SMD parts fitted.
 
 
