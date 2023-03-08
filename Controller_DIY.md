@@ -70,7 +70,7 @@ You can now complete the boards with the additional parts you ordered from LCSC.
 ---
 ## Controller Interactive Bom's
 
-* ## [**BBB 16v2 iBom**](https://gdwoody.github.io/bbb_16/BBB_16v2_SMD_ibom.html)
+* ## [**BBB 16v2 iBom**](https://gdwoody.github.io/bbb_16/BOM_BBB_16v2_SMD_ibom.html)
 * ## [**BBB 16v2 Push Fit iBom**](https://gdwoody.github.io/bbb_16_push/BBB_16v2_SMD_Push_ibom.html)
 
  ## Additional Hardware Required
