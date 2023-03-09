@@ -16,35 +16,35 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 * BBB 16v2 Push Fit
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/image/BBB_16v2_SMD_Push.png)
+![Image of BBB 16v2 Push Fit](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/image/BBB_16v2_SMD_Push.png)
 
 * BBB 8v1
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/image/BBB_8v1_SMD.png)
+![Image of BBB 8v1](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/image/BBB_8v1_SMD.png)
 
 * BBB 8v1 Push Fit
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/image/BBB_8v1_SMD_Push.png)
+![Image of BBB 8v1 Push Fit](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/image/BBB_8v1_SMD_Push.png)
 
 * BBB 4v1
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4/image/BBB_4v1_SMD.png)
+![Image of BBB 4v1](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4/image/BBB_4v1_SMD.png)
 
 * BBB 4v1 Push Fit
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4_push/image/BBB_4v1_Push_fit.png)
+![Image of BBB 4v1 Push Fit](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4_push/image/BBB_4v1_Push_fit.png)
 
 
 * BBB All Differential
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_All_diff/image/BBB_All_Diff.png)
+![Image of BBB All Differential](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_All_diff/image/BBB_All_Diff.png)
 
 ## Expansion Boards
 
 * BBB 16 Expansion Board
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_expansion/image/16_Expansion.png)
+![Image of BBB 16 Expansion](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_expansion/image/16_Expansion.png)
 
 * BBB Differential Board
 
-![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_diff_expansion/image/Diff_Expansion.png)
+![Image of BBB differential Expansion](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_diff_expansion/image/Diff_Expansion.png)
