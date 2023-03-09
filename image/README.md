@@ -48,3 +48,14 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 * BBB Differential Board
 
 ![Image of BBB differential Expansion](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_diff_expansion/image/Diff_Expansion.png)
+
+---
+## WLED Boards
+
+* WLED 4 Port Controller
+
+![Image of WLED 4 Port](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled/image/WLED_WT32.png)
+
+* WLED Differential Controller
+
+![Image of WLED 4 Port](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled_d/image/WLED_WT32_Differential.png)
