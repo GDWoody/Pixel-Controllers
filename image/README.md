@@ -7,31 +7,44 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
-# WLED 4 Port Controller
+---
+## All boards
 
-The WLED 4 Port Controller requires a 5v DC only! Connecting any other size power source will damage the board. The board does not supply power outputs for pixels, only pixel data and ground connections.
+* BBB 16v2
 
-# Features
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16/image/BBB_16v2_SMD.png)
 
-* 4 local ports
+* BBB 16v2 Push Fit
 
-* Reverse Voltage Protection
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/image/BBB_16v2_SMD_Push.png)
 
-* GPIO 15 Relay Connector
+* BBB 8v1
 
-* Power On Timer Delay Connections
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/image/BBB_8v1_SMD.png)
 
-## Additional Hardware Required
+* BBB 8v1 Push Fit
 
-* A ESP32 WT32-ETH01 with WLED Software installed.
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8_push/image/BBB_8v1_SMD_Push.png)
 
-* WLED Software can be found at [**https://github.com/Aircoookie/WLED/releases**](https://github.com/Aircoookie/WLED/releases)
+* BBB 4v1
 
-* WLED Software Installation and Help can be found at [**https://kno.wled.ge/basics/getting-started/**](https://kno.wled.ge/basics/getting-started/)
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4/image/BBB_4v1_SMD.png)
+
+* BBB 4v1 Push Fit
+
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_4_push/image/BBB_4v1_Push_fit.png)
 
 
-![Image of WLED 4 Port
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled/image/WLED_WT32.png)
+* BBB All Differential
 
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_All_diff/image/BBB_All_Diff.png)
 
+## Expansion Boards
 
+* BBB 16 Expansion Board
+
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_expansion/image/16_Expansion.png)
+
+* BBB Differential Board
+
+![Image of BBB 16v2](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_diff_expansion/image/Diff_Expansion.png)
