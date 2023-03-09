@@ -37,7 +37,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 * BBB All Differential
 
-![Image of BBB All Differential](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_All_diff/image/BBB_All_Diff.png)
+![Image of BBB All Differential](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_all_diff/image/BBB_All_Diff.png)
 
 ## Expansion Boards
 
