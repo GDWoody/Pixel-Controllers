@@ -18,7 +18,7 @@ Under CERN OHL-S-v2, derivative work must be publicly released as defined in sub
 
 ![Image of BBB 16v2 Push Fit](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_16_push/image/BBB_16v2_SMD_Push.png)
 
-* BBB 8v1
+* # BBB 8v1
 
 ![Image of BBB 8v1](https://github.com/GDWoody/Pixel-Controllers/blob/main/bbb_8/image/BBB_8v1_SMD.png)
 
