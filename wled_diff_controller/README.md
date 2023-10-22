@@ -32,7 +32,7 @@ The WLED Differential Controller requires a 5v DC only! Connecting any other siz
 * Fully Compatable with [**Differential Receivers - 4 Port Remote Differential Receivers**](https://github.com/GDWoody/Pixel-Controllers/tree/main/diff_receiver/)
 
 ![Image of WLED Differential
-Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled_d/image/WLED_WT32_Differential.png)
+Out](https://github.com/GDWoody/Pixel-Controllers/blob/main/wled_diff_controller/image/WLED_WT32_Differential.png)
 
 
 
