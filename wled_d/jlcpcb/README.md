@@ -1,4 +1,4 @@
-# BBB All Diffv1 SMD Controller
+# WELD Differential Controller
 
 ## Copyright and Disclaimer
 Copyright: GDWoody
@@ -9,9 +9,4 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Under CERN OHL-S-v2, derivative work must be publicly released as defined in subsection 3.3
 
----
-## Additional Components Required
 
-* A BeagleBone Black, BeagleBone Black Wireless, BeagleBone Green, or SanCloud BeagleBone enhanced 
-
-* A SSD1306 128x64 OLED Display
